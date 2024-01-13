@@ -1,8 +1,34 @@
-### Hi there 👋
+<h1>Hello, I'm Charan! <br/><a href="https://www.linkedin.com/in/sri-charan-gurramkonda/">Cyber Security Engineering Undergraduate</a>
+
+<h3>I'm a Senior at Iowa State University, majoring in Cyber Security Engineering and gearing up for a semester of exciting projects! I'm aiming to use my academic knowledge and upcoming certifications to build a career in Red Teaming. Passionate about Penetration Testing and Forensic Analysis, I plan to develop secure solutions, one commit at a time. Stay tuned for my journey into creating innovative security solutions for tech challenges!</h3> 
+
+<h2>👨‍💻 Technical Projects:</h2>
+
+- <b>Senior Design Project</b>
+  - [Project Analysis]()
+- <b>Computer Science 309 Project</b>
+  - [README + Code]()
+- <b>Operation Moby Dock</b>
+  - [Configuring Microcontrollers W/ Python](https://github.com/CharanCyberFront/Moby_Dock)
+- <b>Raspberry Pi 4 Honeypot</b>
+  - [Image Analysis On Incoming Attacks]()
+- <b>Microsoft Powershell Project</b>
+- <b>Vulnerability Management Lab</b>
+- <b>Rest API Project</b>
+
+<h2>📝 Certifications:</h2>
+
+- <b>Certified Ethical Hacker (CEH)</b>
+- <b>CompTIA Security+</b>
+- <b>Microsoft Certified: Azure Security Engineer Associate</b>
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Senior Design Demo]()
+- [Computer Science 309 Demo]()
+- [Honeypot Demo]() 
 
 <!--
-**CharanCyberFront/CharanCyberFront** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
