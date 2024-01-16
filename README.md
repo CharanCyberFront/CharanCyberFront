@@ -18,9 +18,8 @@
 
 <h2>📝 Certifications:</h2>
 
-- <b>Certified Ethical Hacker (CEH)</b>
-- <b>CompTIA Security+</b>
-- <b>Microsoft Certified: Azure Security Engineer Associate</b>
+- <b>CompTIA Security+ (Exp. June 2024)</b>
+- <b>Microsoft Certified: Azure Security Engineer Associate (Exp. June 2024)</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
