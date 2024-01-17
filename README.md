@@ -5,7 +5,7 @@
 <h2>🏢 Internships:</h2>
 
 - <b>Polars Inc. | Digital & Information Technology Intern (Incoming)</b>
-- <b>UnitedHealth Group | Technology Development Intern (June - August In 2022 & 2023)</b>
+- <b>UnitedHealth Group | Technology Development Intern (June-Aug 2022, June-Aug 2023)</b> 
 
 <h2>👨‍💻 Technical Projects:</h2>
 
