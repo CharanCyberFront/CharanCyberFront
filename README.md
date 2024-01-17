@@ -2,6 +2,11 @@
 
 <h3>I'm a Senior at Iowa State University, majoring in Cyber Security Engineering and gearing up for a semester of exciting projects! I'm aiming to use my academic knowledge and upcoming certifications to build a career in Red Teaming. Passionate about Penetration Testing and Forensic Analysis, I plan to develop secure solutions, one commit at a time. Stay tuned for my journey into creating innovative security solutions for tech challenges!</h3> 
 
+<h2>🏢 Internships:</h2>
+
+- <b>Polars Inc. | Digital & Information Technology Intern (Incoming)</b>
+- <b>UnitedHealth Group | Technology Development Intern (June - August In 2022 & 2023)</b>
+
 <h2>👨‍💻 Technical Projects:</h2>
 
 - <b>Senior Design Project</b>
