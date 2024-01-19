@@ -9,6 +9,11 @@
 
 <h2>👨‍💻 Technical Projects:</h2>
 
+- <b>UnitedHealth Group - Financial Web Portal</b>
+  - **Overview:** Collaborated with the Corporate Employee Experience Department (C2E) under Agile Methodology to introduce 3 major features for vendors to Enroll, Update, and
+    Cancel banking info on UHG's Finanical Portal Website. 
+  - **Role:** Technology Development Intern
+  - **Skills:** React.js, Splunk, Formik Validation, Visual Studio Pro, Rally
 - <b>Senior Design Project</b>
   - [Project Analysis]()
 - <b>Computer Science 309 Project</b>
@@ -17,9 +22,6 @@
   - [Configuring Microcontrollers W/ Python](https://github.com/CharanCyberFront/Moby_Dock)
 - <b>Raspberry Pi 4 Honeypot</b>
   - [Image Analysis On Incoming Attacks]()
-- <b>Microsoft Powershell Project</b>
-- <b>Vulnerability Management Lab</b>
-- <b>Rest API Project</b>
 
 <h2>📝 Certifications:</h2>
 
