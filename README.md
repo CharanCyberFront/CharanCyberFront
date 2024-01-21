@@ -41,26 +41,19 @@
 - <b>Microsoft Certified: Azure Security Engineer Associate (Exp. June 2024)</b>
 
 <h2>🏢 Internships:</h2>
-
 - <b>Polars Inc. | Digital & Information Technology Intern (Incoming)</b>
-- <b>UnitedHealth Group | Technology Development Intern (June-Aug 2022, June-Aug 2023)</b>
-  <h3>June-Aug 2023</h3> 
-    - **Project:** Optum Supplier Portal Enhancement Initiative
-    - **Description:** Implemented Splunk Alerts for the web portal to monitor 9 distinct admin-level actions. High-risk actions prompt real-time Email alerts to relevant teams, while medium and low-risk activities are directed to the Splunk dashboard for review. Additionally, I collaborated with the Corporate Employee Experience Department (C2E) under Agile Methodology to introduce 3 major features for vendors to Enroll, Update, and Cancel banking info on UHG's Portal 
+- <b>UnitedHealth Group - Financial Web Portal Project</b>
+  - **Overview:** Collaborated with the Corporate Employee Experience Department (C2E) under Agile Methodology to introduce 3 major features for vendors to Enroll, Update, and
+    Cancel banking info on UHG's Finanical Portal Website. 
   - **Role:** Technology Development Intern
-  - **Skills (Technical):** React.js, Splunk, Formik Validation, Visual Studio Pro, Git, Rally
-  - **Skills (Soft):** Acquired comprehensive software development expertise at a Fortune 500 corporation, enhancing collaborative problem-solving abilities, expanding professional networking, and developing a versatile approach to adapting to various technologies
-  - **Evaluations:** 
-  - **Presentations:** 
-  <h3>June-Aug 2022</h3> 
-  - **Project:** SharePoint to Tableau Automation Project
-  - **Description:** 
-  - **Role:** Technology Development Intern
-  - **Skills (Technical):** Microsoft Power Automate, Microsoft Power BI, Microsoft SQL Server, Rally 
-  - **Skills (Soft):** Improved leadership capabilities and spearheaded Hackathon Project—our team built an automation project in a 48-hour period that removes manual elements of
-  charting medication administration through a charting software called MedTouch
-  - **Evaluations:** 
-  - **Presentations:** 
+  - **Skills:** React.js, Splunk, Formik Validation, Visual Studio Pro, Git, Rally
+  - **Growth:** Acquired comprehensive software development expertise at a Fortune 500 corporation, enhancing collaborative problem-solving abilities, expanding professional networking, and developing a versatile approach to adapting to various technologies
+- <b>UnitedHealth Group - SharePoint to Tableau Automation Project</b>
+  - **Overview:**  
+  - **Role:** 
+  - **Skills:** 
+  - **Growth:**
+  - **Resources:** 
 
 <h2>📺 Popular YouTube Videos</h2>
 
