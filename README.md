@@ -43,8 +43,16 @@
 <h2>🏢 Internships:</h2>
 
 - <b>Polars Inc. | Digital & Information Technology Intern (Incoming)</b>
-- <b>UnitedHealth Group - Financial Web Portal Project</b>
-- <b>UnitedHealth Group - SharePoint to Tableau Automation Project</b>
+- <b>UnitedHealth Group - Financial Web Portal Project (June 2023 - Aug 2023)</b>
+  - **Overview:** My Intern Team (Team Perry) and I enhanced the Optum Enterprise's Supplier Web Portal for the 17,000 external suppliers associated with a renowned Fortune 500 corporation. Leveraging our expertise, we embedded Splunk Alerts to monitor 9 distinct admin-level actions on the portal, ensuring real-time notification for high-risk actions and directing medium and low-risk activities to the Splunk dashboard for further assessment. Working within the Agile Methodology framework, we collaborated with the Corporate Employee Experience Department (C2E) to introduce three major vendor-centric features, allowing seamless enrollment, updates, and cancellations of banking information.
+  - **Role:** Technology Development Intern
+  - **Skills (Technical):** React.js, Splunk, Formik Validation, Visual Studio Pro, Git, Rally
+  - **Skills (Soft):** Acquired comprehensive software development, enhancing collaborative problem-solving abilities, expanding professional networking, and developing a versatile approach to adapting to various technologies
+- <b>UnitedHealth Group - SharePoint to Tableau Automation Project (June 2022 - Aug 2022)</b>
+  - **Overview:** As a TDP Intern, I performed an automation project for the Enterprise Info Security Team (EIS) —transferring files from a Microsoft Sharepoint Database to Tableau. Alongside my peers, I am meticulously learning more about the flow of healthcare information through a Fortune 500 Enterprise. 
+  - **Role:** Technology Development Intern
+  - **Skills (Technical):** Microsoft Power Automate, Microsoft Power BI, Microsoft SQL Server, Rally 
+  - **Skills (Soft):** Improved leadership capabilities and spearheaded Hackathon Project—our team built an automation project in a 48-hour period that removes manual elements of charting medication administration through a charting software called MedTouch
 
 <h2>📺 Popular YouTube Videos</h2>
 
