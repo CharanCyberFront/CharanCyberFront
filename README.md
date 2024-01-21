@@ -41,19 +41,10 @@
 - <b>Microsoft Certified: Azure Security Engineer Associate (Exp. June 2024)</b>
 
 <h2>🏢 Internships:</h2>
+
 - <b>Polars Inc. | Digital & Information Technology Intern (Incoming)</b>
 - <b>UnitedHealth Group - Financial Web Portal Project</b>
-  - **Overview:** Collaborated with the Corporate Employee Experience Department (C2E) under Agile Methodology to introduce 3 major features for vendors to Enroll, Update, and
-    Cancel banking info on UHG's Finanical Portal Website. 
-  - **Role:** Technology Development Intern
-  - **Skills:** React.js, Splunk, Formik Validation, Visual Studio Pro, Git, Rally
-  - **Growth:** Acquired comprehensive software development expertise at a Fortune 500 corporation, enhancing collaborative problem-solving abilities, expanding professional networking, and developing a versatile approach to adapting to various technologies
 - <b>UnitedHealth Group - SharePoint to Tableau Automation Project</b>
-  - **Overview:**  
-  - **Role:** 
-  - **Skills:** 
-  - **Growth:**
-  - **Resources:** 
 
 <h2>📺 Popular YouTube Videos</h2>
 
