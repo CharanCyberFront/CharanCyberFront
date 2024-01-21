@@ -45,8 +45,8 @@
 - <b>Polars Inc. | Digital & Information Technology Intern (Incoming)</b>
 - <b>UnitedHealth Group | Technology Development Intern (June-Aug 2022, June-Aug 2023)</b>
   <h3>June-Aug 2023</h3> 
-  - **Project:** Optum Supplier Portal Enhancement Initiative
-  - **Description:** Implemented Splunk Alerts for the web portal to monitor 9 distinct admin-level actions. High-risk actions prompt real-time Email alerts to relevant teams, while medium and low-risk activities are directed to the Splunk dashboard for review. Additionally, I collaborated with the Corporate Employee Experience Department (C2E) under Agile Methodology to introduce 3 major features for vendors to Enroll, Update, and Cancel banking info on UHG's Portal 
+    - **Project:** Optum Supplier Portal Enhancement Initiative
+    - **Description:** Implemented Splunk Alerts for the web portal to monitor 9 distinct admin-level actions. High-risk actions prompt real-time Email alerts to relevant teams, while medium and low-risk activities are directed to the Splunk dashboard for review. Additionally, I collaborated with the Corporate Employee Experience Department (C2E) under Agile Methodology to introduce 3 major features for vendors to Enroll, Update, and Cancel banking info on UHG's Portal 
   - **Role:** Technology Development Intern
   - **Skills (Technical):** React.js, Splunk, Formik Validation, Visual Studio Pro, Git, Rally
   - **Skills (Soft):** Acquired comprehensive software development expertise at a Fortune 500 corporation, enhancing collaborative problem-solving abilities, expanding professional networking, and developing a versatile approach to adapting to various technologies
