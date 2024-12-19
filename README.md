@@ -23,8 +23,6 @@ I’m a senior at Iowa State University, pursuing a degree in **Cyber Security E
 
 - **SANS GFACT Cyber Security+** *(Exp. June 2024)*  
 
-Here’s the updated GitHub README with the additional **Work Experience** section integrated seamlessly and polished for clarity and professionalism:
-
 ## 🏢 Work Experience  
 
 ### **Polaris Inc.** | Minneapolis, MN  
@@ -48,7 +46,7 @@ Here’s the updated GitHub README with the additional **Work Experience** secti
 - Automated file transfers for 1,000+ files, reducing transfer times by 70% and improving data accessibility.  
 - Led a **Hackathon Project**, developing an automation solution (*MedTouch*) in 48 hours to eliminate manual charting processes for medication administration.
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 - [Senior Design Demo]()
 - [Computer Science 309 Demo]()
